@@ -1,2 +1,1 @@
-# Implementacion-de-Cluster
 Repositorio
